@@ -1,3 +1,3 @@
-# codershouse-mern
+# Yash's WebRTC
 
 Final code: deployment branch
