@@ -11,12 +11,11 @@ JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Socket IO, JWT, Redux
 
 
 ## Screenshots
+![RNXG WebRTC 1](https://github.com/yashkondewar/RNXG-WebRTC/assets/98695632/51ecc98e-55ba-4315-abe5-55441be57c05)
+*Audio Rooms*
 
-![Screenshot 1](RNXG WebRTC 1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](RNXG WebRTC 2.png)
-*Caption for Screenshot 2*
+![RNXG WebRTC 2](https://github.com/yashkondewar/RNXG-WebRTC/assets/98695632/7c15637a-cc49-41fd-83b3-0133911242a1)
+*Inside Audio Room*
 
 
 ## Clone or download
