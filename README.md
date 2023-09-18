@@ -10,6 +10,15 @@ JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Socket IO, JWT, Redux
 ● [Figma Design](https://www.figma.com/file/6UYEbwfXW28KT6HQMfz7jP/Yash-WebRTC-Design?type=design&node-id=0%3A1&t=04Dbp8nSpTd1trL7-1) <Br>
 
 
+## Screenshots
+
+![Screenshot 1](RNXG WebRTC 1.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](RNXG WebRTC 2.png)
+*Caption for Screenshot 2*
+
+
 ## Clone or download
 ```terminal
 $ git clone https://github.com/yashkondewar/RNXG-WebRTC.git
