@@ -9,6 +9,10 @@ JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Socket IO, JWT, Redux
 ● Implemented authentication using JSON Web Tokens (JWT), enabling users to sign up and log in with their phone number and password, incorporating the Twilio service for OTP verification in the application, and additionally implementing a HashMap data structure for efficient data management.<br>
 ● [Figma Design](https://www.figma.com/file/6UYEbwfXW28KT6HQMfz7jP/Yash-WebRTC-Design?type=design&node-id=0%3A1&t=04Dbp8nSpTd1trL7-1) <Br>
 
+## Demo Video
+
+![RNXG WebRTC Demo](https://github.com/yashkondewar/RNXG-WebRTC/assets/98695632/a1b4a3f6-2107-4afd-ab37-594aafa9657f)
+
 
 ## Screenshots
 ![RNXG WebRTC 1](https://github.com/yashkondewar/RNXG-WebRTC/assets/98695632/51ecc98e-55ba-4315-abe5-55441be57c05)
