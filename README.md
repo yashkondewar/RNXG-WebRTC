@@ -11,7 +11,7 @@ JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Socket IO, JWT, Redux
 
 ## Demo Video
 
-![RNXG WebRTC Demo](https://github.com/yashkondewar/RNXG-WebRTC/assets/98695632/a1b4a3f6-2107-4afd-ab37-594aafa9657f)
+https://github.com/yashkondewar/RNXG-WebRTC/assets/98695632/a1b4a3f6-2107-4afd-ab37-594aafa9657f
 
 
 ## Screenshots
